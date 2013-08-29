@@ -5,6 +5,7 @@ $b = 1;
 public funtion ($a,$b){
 
 echo $a + $b;
+echo $a * $b;
 
 }
 
