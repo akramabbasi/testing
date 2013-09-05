@@ -2,7 +2,7 @@
 
 $a = 2;
 $b = 1;
-public funtion ($a,$b){
+public function ($a,$b){
 
 
 $count['plus'] = $a + $b;
